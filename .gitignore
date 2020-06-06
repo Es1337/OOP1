@@ -1,0 +1,17 @@
+archives
+*/review.txt
+*.exe
+*.obj
+.vscode
+archive
+build
+CMakeFiles
+Testing
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.cmake
+*.tcl
+code
+.CMakeFiles
+CMakeCache.txt
